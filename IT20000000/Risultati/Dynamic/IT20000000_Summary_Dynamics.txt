@@ -1,0 +1,47 @@
+Fireball:IT20000000    
+    
+METEOROID DYNAMIC (Kalenichenko, A&A, 2006) 
+Mean drag coefficient - fixed for fireball phase:                               0.58
+Pre-atmospheric velocity (km/s):                                               16.18
+Pre-atmospheric velocity uncertainty (km/s):                                    0.52
+Pre-atmospheric velocity Ceplecha model (km/s):                                16.52
+Pre-atmospheric velocity uncertainty Ceplecha model (km/s):                     0.07
+Mean ablation factor (s^2/km^2):                                              0.0012
+Pre-atmospheric mass section ratio, M/S  (kg/m^2):                             236.7
+Terminal mass section ratio, M/S (kg/m^2):                                    224.99
+Drag x terminal mass section ratio, Gamma*(S/M) (m^2/kg):                   0.002578
+    
+START POINT - DYNAMICAL MODEL
+Height in the start point (km):                                                 81.19
+Velocity in the start point (km/s):                                             16.13
+Air density in the start point (kg/km^3):                                    5906.011
+    
+RESIDUALS - DYNAMICAL MODEL
+Average residual of the speed fit (km/s):                                      0.524
+Average residual of air density fit (kg/m^3):                                  0.000
+Average residual of the heights fit (km):                                      0.142
+    
+MINIMUM ACCELERATION POINT - DYNAMICAL MODEL
+Time of minimum acceleration (s):                                               6.60
+Minimum acceleration (km/s^2):                                                 -3.85
+Velocity at minimum acceleration (km/s):                                        9.81
+Height at minimum acceleration (km):                                           30.86
+Mean ablation factor computed with the minimum acceleration (s^2/km^2):       0.0005
+    
+FINAL POINT - DYNAMICAL MODEL
+Height of the final point (km):                    23.25
+Uncertainty of the height (km):                     0.14
+Velocity in the final point (km/s):                 3.04
+Uncertainty of the velocity (km/s):                 0.52
+Acceleration in the final point (km/s^2):          -1.24
+    
+CRITERIA FOR NON ROTATING METEORITE-PRODUCING FIREBALL (Gritsevich, ASR, 2009)
+Log balistic coefficiente (from dynamical model), ln(alpha)                               4.12
+Log mass loss coeffcient (from dynamical model), ln(beta)                                -1.85
+    
+UNDER THE HYPOTHESIS OF A CHONDRITIC METEORITE
+Starting diameter (m):                                  0.10142
+Starting mass (kg):                                     1.91194
+Final diameter (m):                                     0.09643
+Final mass (kg):                                        1.64305
+Absolute magnitude at luminosity maximum (mag):           -7.47

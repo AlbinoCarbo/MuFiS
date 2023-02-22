@@ -1,0 +1,21 @@
+"Fireball IT20000000 " "Sol" 
+ { 
+	Class "planet"  
+	Texture "asteroid.jpg"     
+	Color [1.000 0.945 0.881]  
+	BlendTexture true          
+	Mesh "asteroid.cms"        
+	Radius          38.94      
+      
+	EllipticalOrbit 
+	{ 
+	Epoch           2456540.4753 
+	Period              3.8123 
+	SemiMajorAxis       2.4404 
+	Eccentricity        0.6173 
+	Inclination         4.0721 
+	AscendingNode     249.4001 
+	ArgOfPericenter    37.5024 
+	MeanAnomaly         0.0000 
+	} 
+ } 

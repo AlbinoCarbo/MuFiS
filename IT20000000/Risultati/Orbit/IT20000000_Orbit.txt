@@ -1,0 +1,64 @@
+Fireball: IT20000000
+JD0: 2457903.500000 
+UT:   21.156000 
+    
+************************************************************************************************************************************************   
+Starting uncertainties to which the Monte Carlo method is applied to propagate them to the true radiant and to the heliocentric orbital elements
+    
+RA uncertainty of the apparent geocentric radiant (degrees)       0.018 
+Dec uncertainty of the apparent geocentric radiant (degrees)      0.018 
+Pre-atmospheric velocity uncertainty (km/s)                       0.524 
+Final point longitude uncertainty (degree)                        0.001 
+Final point latitude uncertainty (degree)                         0.001 
+Final height uncertainty (km)                                     0.142 
+************************************************************************************************************************************************   
+    
+CELESTIAL COORDINATES OF THE TRUE RADIANT 
+    
+Geocentric equatorial coordinates of the true radian (mean equinox to date) 
+  AR (°) 					 Dec (°)
+    
+    207.45 	 pm       0.19     -24.76 	 pm       0.93 
+    
+Geocentric equatorial coordinates of the true radiant (equinox J2000.0) 
+  RA (°) 					 Dec (°)
+    
+    207.21 	 pm       0.19     -24.68 	 pm       0.93 
+    
+Heliocentric equatorial coordinates of the true radiant (equinox J2000.0) 
+  RA (°)  					   Dec (°)
+    
+    172.56 	 pm       0.68      -1.08 	 pm       0.18 
+    
+Heliocentric ecliptic coordinates of the true radiant (equinox J2000.0) 
+  RA (°)  					   Dec (°)
+    
+    173.59 	 pm       0.70      -3.95 	 pm       0.10 
+    
+VALUES OF THE TRUE GEOCENTRIC VELOCITY, TRUE HELIOCENTRIC VELOCITY AND JUPITER TISSERAND INVARIANT
+    
+True geocentric speed (km/s):      11.77 	 pm       0.72 
+    
+True heliocentric speed (km/s):      37.24 	 pm       0.58 
+    
+Jupiter Tisserand Invariant:       3.21 	 pm       0.24 
+    
+METEOROID NOMINAL HELIOCENTRIC ORBITAL ELEMENTS (J2000.0)
+Uncertainties are obtained with the Monte Carlo method
+    
+Semi-major axis (AU)                     2.44 	 pm       0.32 
+Orbital period (years)                   3.81 	 pm       0.77 
+Orbit inclination (°)                    4.07 	 pm       0.09 
+Longitude ascending node (°)         249.4001 	 pm       0.00 
+Eccentricity                             0.62 	 pm       0.05 
+Argument of the perihelion (°)          37.50 	 pm       0.02 
+Perihelion passage (JD)             2456540.5 	 pm        282 
+Perihelion distance (AU)                 0.93 	 pm       0.00 
+Aphelion distance (AU)                   3.95 	 pm       0.64 
+    
+IDENTIFICATION DATA FOR METEOROID PROGENITOR (Valsecchi et al., Mon. Not. R. Astron. Soc. 304, 743-750 (1999))
+Uncertainties are obtained with the Monte Carlo method
+    
+Geocentric velocity (in units of the terrestrial one)        0.40 	 pm       0.02 
+Theta (°)                                                   55.67 	 pm       0.32 
+Fi (°)                                                     285.29 	 pm       1.07 

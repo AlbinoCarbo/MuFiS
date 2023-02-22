@@ -1,0 +1,11 @@
+% Parametri di input per il calcolo del dark fligt semplificato
+   45.2390 % Latitudine punto finale della traiettoria
+   12.0469 % Longitudine punto finale della traiettoria
+  188.7818 % Azimut (N -> E) del radiante apparente del meteoroide nell'ultimo punto osservato
+   59.5875 % Distanza zenitale media della traiettoria (gradi)
+    3.0436 % Velocità nel punto finale (km/s)
+   23.2477 % Quota del punto finale (km)
+   -1.2417 % Accelerazione del punto finale (km/s^2) 
+    0.5800 % Coefficiente di drag fissato (adimensionale) 
+  224.9944 % Rapporto finale M/S massa/sezione (kg/m^2)  
+  0.002578 % Prodotto Drag*(S/M) finale (m^2/kg)   
